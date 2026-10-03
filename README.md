@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**narrapedia-top/narrapedia-top** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Narrapedia
 
-Here are some ideas to get you started:
+### Produk Digital • Website • SEO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Membantu bisnis dan kreator berkembang melalui
+produk digital serta layanan website dan SEO.
+
+[Kunjungi Website](https://narrapedia.top)
+
+</div>
+
+---
+
+## Tentang Narrapedia
+
+Narrapedia adalah marketplace produk digital dan penyedia
+layanan website serta SEO untuk mendukung kebutuhan bisnis
+di era digital.
+
+## Fokus Kami
+
+- **Produk digital** — Mendukung kebutuhan kerja dan kreativitas.
+- **Layanan website** — Membantu bisnis membangun kehadiran online.
+- **SEO** — Membantu meningkatkan visibilitas website di pencarian.
+
+## Jelajahi Narrapedia
+
+Lihat produk dan layanan kami di
+[narrapedia.top](https://narrapedia.top).
