@@ -1,14 +1,4 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
 
 <!-- Profil Narrapedia : folder assets-v2 diperlukan -->
 <a href="https://narrapedia.top"><img src="./assets-v2/hero.gif" width="100%" alt="Narrapedia — Produk digital, tools untuk kreator, website untuk bisnis, dan SEO untuk visibilitas." /></a>
